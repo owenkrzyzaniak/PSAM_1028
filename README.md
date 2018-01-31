@@ -4,4 +4,4 @@
 #### OWEN Krzyzaniak Geary
 #### Fine Arts
 #### Sophmore
-(https://octodex.github.com/images/yaktocat.png)
+<img src="https://twitter.com/versowen/status/958796697794117633" width="400">
