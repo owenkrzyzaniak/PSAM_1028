@@ -1,6 +1,6 @@
 ### This is my code snippet
 
-```rudy
+```ruby
 
 var firstName = "Owen"
 undefined
@@ -31,7 +31,7 @@ initials
 
 ```
 
-```rudy
+```ruby
 var secondsInAMinute = 60
 undefined
 var minutesInAnHour = 60
