@@ -69,3 +69,15 @@ owen && geary || owen
 false
 
 ```
+
+```ruby
+var clouds = 100
+undefined
+clouds = "word"
+"word"
+clouds = null
+null
+clouds
+null
+
+```
