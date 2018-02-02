@@ -30,3 +30,28 @@ initials
 "OKG"
 
 ```
+
+```rudy
+var secondsInAMinute = 60
+undefined
+var minutesInAnHour = 60
+undefined
+var secondsInAnHour = secondsInAMinute * minutesInAnHour
+undefined
+var hoursInADay = 24
+undefined
+var secondsInADay = secondsInAnHour * hoursInADay
+undefined
+secondsInADay
+86400
+var daysInAYear = 365
+undefined
+var secondsInAYear = daysInAYear * secondsInADay
+undefined
+secondsInAYear
+31536000
+var myAge = 20
+undefined
+myAge * secondsInAYear
+630720000
+```
