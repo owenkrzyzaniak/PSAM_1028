@@ -55,3 +55,17 @@ undefined
 myAge * secondsInAYear
 630720000
 ```
+
+```ruby
+true
+true
+false
+false
+var owen = false
+undefined
+var geary = true
+undefined
+owen && geary || owen
+false
+
+```
