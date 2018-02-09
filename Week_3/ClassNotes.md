@@ -40,5 +40,19 @@ HorrorIntro + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[M
 "Welcome to Suffering Forest"
 HorrorIntro + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
 "Welcome to Cold Haunted House"
+HorrorIntro + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Welcome to Death Island"
+HorrorIntro + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Welcome to Ghost Haunted House"
+HorrorIntro + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Welcome to Ghost Lake"
+var HorrorIntro = ["Welcome to", "Down at", "Lost at", "Trapped in"]
+undefined
+HorrorIntro[Math.floor(Math.random() * 4)] + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Lost at Cold Forest"
+HorrorIntro[Math.floor(Math.random() * 4)] + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Down at Zombie Cemetery"
+HorrorIntro[Math.floor(Math.random() * 4)] + HorrorAdjective[Math.floor(Math.random() * 10)] + HorrorLocation[Math.floor(Math.random() * 10)]
+"Trapped in Suicide Boat"Cold Haunted House"
 
 ```
