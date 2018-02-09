@@ -8,3 +8,16 @@ lastElementInArray
 "Lettuce"
 
 ```
+
+```ruby
+
+var colorArray = ["Red","Green","Blue"]
+undefined
+colorArray.unshift("Yellow")
+4
+colorArray.unshift("Purple")
+5
+colorArray
+(5) ["Purple", "Yellow", "Red", "Green", "Blue"]
+
+```
