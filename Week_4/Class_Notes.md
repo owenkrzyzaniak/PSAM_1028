@@ -45,6 +45,15 @@ console.log(myPhrase)
 var name = prompt("What is your name?")
 console.log("Hello " + name )
 ```
+```ruby
+var likeComputers = confirm("Do You Like Computers?")
 
+if(likeComputers){
+console.log("Me Too!")
+} else {
+console.log("Ok, Then Die")
+}
+
+```
 
 
