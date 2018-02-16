@@ -38,3 +38,13 @@ sheepCount++ //shorthand for sheepCount = sheepCount + 1
 
 }
 ```
+```ruby
+var myPhrase = "Hello Earth"
+console.log(myPhrase)
+
+var name = prompt("What is your name?")
+console.log("Hello " + name )
+```
+
+
+
