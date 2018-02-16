@@ -27,3 +27,14 @@ console.log("It's a werewolf")
 }else if (hasFangs || hasClaws){ console.log("That's a monster")
          }
 ```
+```ruby
+var sheepCount = 0
+while( sheepCount < 10)
+{
+// do something here
+console.log ("I have counted " + sheepCount + " sheep")
+
+sheepCount++ //shorthand for sheepCount = sheepCount + 1
+
+}
+```
